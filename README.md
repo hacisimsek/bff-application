@@ -6,7 +6,7 @@ Implemented the Backend for Frontend (BFF) pattern in this microservices project
 
 For building and running the application you need:
 
-- [JDK 1.8](https://www.oracle.com/java/technologies/downloads/#java17)
+- [JDK 17.0.13](https://www.oracle.com/java/technologies/downloads/#java17)
 - [Maven 3](https://maven.apache.org)
 
 ## Running the application locally
